@@ -367,7 +367,6 @@ video {
 
 
   --gradient-tesla-bg: black;
-  --gradient-tesla-card: linear-gradient(145deg, hsl(0 0% 14%), hsl(0 0% 10%));
   --shadow-tesla: 0 20px 40px -10px hsl(0 0% 0% / 0.5);
   --shadow-tesla-glow: 0 0 30px hsl(var(--tesla-blue) / 0.3);
   --shadow-tesla-red-glow: 0 0 30px hsl(var(--tesla-red) / 0.3);
